@@ -1,0 +1,34 @@
+name: ion_ml
+channels:
+  - default
+dependencies:
+  - python
+  - ipython
+  - ipykernel
+  - autopep8
+  - nbconvert
+  - nbformat
+  - matplotlib
+  - bokeh
+  - plotly
+  - h5py
+  - hdf5
+  - joblib
+  - numba
+  - pandas
+  - pandas-datareader
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - holoviews
+  - panel
+  - hvplot
+  - pip
+  - pip:
+    - keras
+    - tensorflow
+    - opt_einsum
+    - shap
+    - slicer
+    - cloudpickle
