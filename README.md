@@ -1,6 +1,6 @@
 To run Machine Learning code you need to create a new environment:
 
-1- Clone the repository: $git clone git@github.com:CADWRDeltaModeling/Ion_Study_TTDataset.git
+1- Clone the repository: git clone https://github.com/PeymanHNamadi/ion_simulator
 
 2- Use environment.yml file to create new environment: conda env create -f environment.yml 
 
